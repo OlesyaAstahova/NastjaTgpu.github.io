@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    
+    height: 150px;
+}
+#flex{
+    display:flex;
+    flex-direction:row;
+}
+nav{
+
+    width:250px;
+
+}
+main{
+
+    width:1500px;
+
+}
+
+#logo{
+    width: 250px;
+    margin: 5px 100px;
+}
+#pic{
+    width:800px;
+    margin: 0 10px;
+}
+#pic1{
+    width:300px;
+    margin: 0 10px;
+}
+
+h1{
+    display: flex;
+    font-size: 48px;
+    font-weight: 400;
+    margin:0 300px;
+    padding-top: 100px;
+}
+
+#menu{
+
+    margin:0 60px;
+    padding-top: 45px;
+    color:#DD6BE8;
+    font-size: 26px;
+}
+li{
+    margin:0 60px;
+    padding-top: 25px;
+
+}
+a{
+    display:inline-block;
+    text-decoration: none;
+    color: black;
+}
+
+#hed{
+    margin:0 100px;
+    padding-top: 45px;
+    font-size: 26px;
+    color: #DD6BE8;
+}
+p{
+    margin:0 100px;
+    padding-top: 25px;
+    font-size: 26px;
+    line-height: 1.5;
+    text-align: center;
+}
+
