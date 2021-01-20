@@ -1,1 +1,0 @@
-# NastjaTgpu.github.io
